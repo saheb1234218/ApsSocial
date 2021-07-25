@@ -1,0 +1,44 @@
+.Register{
+    width: 100%;
+    height: 100vh;
+   align-items: center;
+   justify-content: center;
+  
+    .Register-form{
+        margin-top: 50px;
+        margin-left: 350px;
+        width: 500px;
+        height: 500px;
+        border: 2px solid rgb(13, 13, 14);
+        box-shadow: 1px 1px 10px rgb(7, 78, 172);
+        border-radius: 15px;
+        background-color: rgb(11, 104, 190);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .Register-input{
+        width: 80%;
+        height: 40px;
+        border-radius: 10px;
+        border: 1px solid black;
+        box-shadow: 0px 0px 10px black;
+        margin: 20px 0px 20px 0px;
+    }
+    .Register-btn{
+        background-color: rgb(22, 22, 73);
+        width: 80%;
+        height: 40px;
+        border-radius: 10px;
+        border: 1px solid black;
+        box-shadow: 0px 0px 10px black;
+        margin: 20px 0px 20px 0px;
+        font-size: 15px;
+        color: white;
+    }
+    .Register-txt{
+        font-size: 15px;
+        color: white;
+    }
+}

@@ -1,0 +1,50 @@
+.profilepic{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.post{
+    width: 100%;
+    height: 430px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+    box-shadow: 0px 0px 16px -8px rgba(0,0,0,0.68);
+}
+.postwrapper{
+    padding: 10px;
+}
+.posttop{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.profilename{
+    margin-left: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.profile{
+    display: flex;
+    align-items: center;
+
+}
+.centre{
+    padding: 20px;
+}
+.postpic{
+    margin-top: 20px;
+    width: 90%;
+    height: 250px;
+}
+.bottom{
+    padding-top: 5px;
+    padding-left: 15px;
+    display: flex;
+
+}
+.btmicn{
+    cursor: pointer;
+    margin-right: 15px;
+}
